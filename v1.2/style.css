@@ -29,11 +29,10 @@ input{
     padding: .5rem;
 }
 .user-cards{
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: .25rem;
-    margin-top: 1rem;
-    font-size: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: .25rem;
+  margin-top: 1rem;
 }
 .card{
   color: #fff;
@@ -43,14 +42,15 @@ input{
 }
 .card:nth-child() {
   background-color: #000;
-}
-  
+} 
 .card:hover {
   background-color: #fff;
   color: #000;
   padding: .5rem;
 }
-
+.card .header{
+    margin-bottom: .25rem;
+}
 .hide {
     display: none;
 }
