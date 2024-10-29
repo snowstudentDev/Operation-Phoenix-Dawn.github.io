@@ -7,7 +7,7 @@ let users = []
 fetch("/content/json/games.json").then((res) => res.json()).then(data => {
     users = data.map(user=> {
         const card = userCardTemplate.content.cloneNode(true).children[0]
-        const header = card.querySelector("[data-header]")
+        //const header = card.querySelector("[data-header]")
 
         // adding content into the query selected i.e header and body
         // header.textContent = user.title
