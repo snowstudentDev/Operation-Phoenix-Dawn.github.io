@@ -2,19 +2,21 @@
     {
       "title": "1on1soccer",
       "image": "/games/1on1soccer/wogo.jpg",
-      "link": "/games/1on1soccer",
-      "description": "A soccer game"
+      "link": "/games/1on1soccer"
     },
     {
       "title": "2048",
       "image": "/games/2048/2048.png",
-      "link": "/games/2048",
-      "description": "A car simulator"
+      "link": "/games/2048"
+    },
+    {
+      "title": "A dance of Fire and Ice",
+      "image": "/games/A-dance-of-fire-and-ice/icon.png",
+      "link": "/games/A-dance-of-fire-and-ice"
     },
     {
       "title": "Achievement Unlocked",
       "image": "/games/achievementunlocked/achievementunlocked.png",
-      "link": "/games/achievementunlocked",
-      "description": "A game about Achievements"
+      "link": "/games/achievementunlocked"
     }
 ]
