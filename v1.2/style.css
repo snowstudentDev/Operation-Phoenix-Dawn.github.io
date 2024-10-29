@@ -56,13 +56,6 @@ input{
   color: #000;
   font-size: 30px;
 }
-.card .header{
-    margin-bottom: .25rem;
-}
-.card > .body{
-    font-size: .8rem;
-    color: #777;
-}
 
 .hide {
     display: none;

@@ -28,5 +28,3 @@ searchInput.addEventListener('input', (e) => {
         user.element.classList.toggle('hide', !isVisible)
     })
 })
-
-card.fontSize = "30px";
