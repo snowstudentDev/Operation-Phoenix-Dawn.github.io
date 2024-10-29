@@ -35,12 +35,22 @@ input{
   margin-top: 1rem;
 }
 .card{
-  border: 1px solid black; 
+  padding: .5rem;
+  text-decoration: none;
+  color: #fff;
+  transition: all 0.3s;
+}
+.card:hover {
   background-color: white;
   padding: .5rem;
+  text-decoration: none;
+  color: #000;
 }
+
 .card .header{
   margin-bottom: .25rem;
+  text-decoration: none;
+  color: #fff;
 }
 .card > .body{
   font-size: .8rem;
