@@ -33,6 +33,7 @@ input{
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     gap: .25rem;
     margin-top: 1rem;
+    font-size: 30px;
 }
 .card{
   display: inline-block;
@@ -46,6 +47,7 @@ input{
   cursor: pointer;
   transition: all 0.3s;
   border-color: rgb(3, 169, 244);
+  overflow: auto;
 }
 .card:nth-child() {
   background-color: #000;
@@ -55,6 +57,7 @@ input{
   background-color: #fff;
   color: #000;
   font-size: 30px;
+  overflow: auto;
 }
 
 .hide {
