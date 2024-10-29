@@ -12,7 +12,6 @@ fetch("/content/json/games.json").then((res) => res.json()).then(data => {
         // adding content into the query selected i.e header and body
         // header.textContent = user.title
         card.textContent = user.title
-        header.textContent = user.title
         card.href = user.link
         userCardContainer.append(card)
 
