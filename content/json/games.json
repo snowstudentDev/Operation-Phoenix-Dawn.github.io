@@ -1,20 +1,20 @@
 [
     {
       "title": "1on1soccer",
-      "image": "https://mr-milky-way.github.io/games/1on1soccer/wogo.jpg",
+      "image": "/games/1on1soccer/wogo.jpg",
       "link": "/games/1on1soccer",
       "description": "A soccer game"
     },
     {
       "title": "2048",
-      "image": "https://mr-milky-way.github.io/games/2048/2048.png",
-      "link": "https://mr-milky-way.github.io/games/2048",
+      "image": "/games/2048/2048.png",
+      "link": "/games/2048",
       "description": "A car simulator"
     },
     {
       "title": "Achievement Unlocked",
-      "image": "https://mr-milky-way.github.io/games/achievementunlocked/achievementunlocked.png",
-      "link": "https://mr-milky-way.github.io/games/achievementunlocked",
+      "image": "/games/achievementunlocked/achievementunlocked.png",
+      "link": "/games/achievementunlocked",
       "description": "A game about Achievements"
     }
 ]

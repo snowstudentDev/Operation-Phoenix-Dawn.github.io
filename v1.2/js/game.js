@@ -28,3 +28,5 @@ searchInput.addEventListener('input', (e) => {
         user.element.classList.toggle('hide', !isVisible)
     })
 })
+
+card.padding = "20px";
