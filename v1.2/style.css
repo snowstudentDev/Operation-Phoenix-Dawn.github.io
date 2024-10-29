@@ -47,7 +47,7 @@ input{
   cursor: pointer;
   transition: all 0.3s;
   border-color: rgb(3, 169, 244);
-  overflow: auto;
+  white-space: normal;
 }
 .card:nth-child() {
   background-color: #000;
@@ -57,7 +57,7 @@ input{
   background-color: #fff;
   color: #000;
   font-size: 30px;
-  overflow: auto;
+  white-space: normal;
 }
 
 .hide {
