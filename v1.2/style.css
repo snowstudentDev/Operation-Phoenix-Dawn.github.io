@@ -53,6 +53,12 @@ input{
   text-decoration: none;
   color: #fff;
 }
+
+.card .header:hover{
+  margin-bottom: .25rem;
+  text-decoration: none;
+  color: #000;
+}
 .card > .body{
   font-size: .8rem;
   color: #777;
