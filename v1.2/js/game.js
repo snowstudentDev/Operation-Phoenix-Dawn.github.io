@@ -29,4 +29,4 @@ searchInput.addEventListener('input', (e) => {
     })
 })
 
-card.padding = "20px";
+card.fontSize = "30px";
