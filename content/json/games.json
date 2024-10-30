@@ -28,5 +28,60 @@
       "title": "A Dark Room",
       "image": "/games/adarkroom/splash.png",
       "link": "/games/adarkroom"
+    },
+    {
+      "title": "Adventure Capitalist",
+      "image": "/games/adventure-capitalist/icon.png",
+      "link": "/games/adventure-capitalist"
+    },
+    {
+      "title": "Alien Hominid",
+      "image": "/games/alienhominid/alienhominid.jpg",
+      "link": "/games/alienhominid"
+    },
+    {
+      "title": "Amidst the Clouds",
+      "image": "/games/amidst-the-clouds/splash.png",
+      "link": "/games/amidst-the-clouds"
+    },
+    {
+      "title": "Among Us",
+      "image": "/games/among-us/red.png",
+      "link": "/games/among-us"
+    },
+    {
+      "title": "Astray",
+      "image": "/games/astray/splash.png",
+      "link": "/games/astray"
+    },
+    {
+      "title": "Avalanche",
+      "image": "/games/avalanche/avalanche.png",
+      "link": "/games/avalanche"
+    },
+    {
+      "title": "Awesome Tanks 2",
+      "image": "/games/awesometanks2/awesometanks2.jpg",
+      "link": "/games/awesometanks2"
+    },
+    {
+      "title": "Bacon May Die",
+      "image": "/games/avalanche/avalanche.png",
+      "link": "/games/avalanche"
+    },
+    {
+      "title": "Bad Piggies",
+      "image": "/games/badpiggies/badpiggies.png",
+      "link": "/games/badpiggies"
+    },
+    {
+      "title": "Bad Time Simulator",
+      "image": "/games/badtimesimulator/icon-256.png",
+      "link": "/games/badtimesimulator"
+    },
+    {
+      "title": "Ballistic Chickens",
+      "image": "/games/Ballistic-Chickens/Ballistic-Chickens.png",
+      "link": "/games/Ballistic-Chickens"
     }
 ]
