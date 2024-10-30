@@ -18,5 +18,15 @@
       "title": "Achievement Unlocked",
       "image": "/games/achievementunlocked/achievementunlocked.png",
       "link": "/games/achievementunlocked"
-    }
+    },
+    {
+      "title": "Acsii Space",
+      "image": "/games/Acsiispace/acsiispace.png",
+      "link": "/games/Acsiispace"
+    },
+    {
+      "title": "A Dark Room",
+      "image": "/games/adarkroom/splash.png",
+      "link": "/games/adarkroom"
+    },
 ]

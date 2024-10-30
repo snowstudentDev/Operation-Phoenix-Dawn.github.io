@@ -57,7 +57,7 @@ input{
   transition: all 0.3s;
 }
 
-.card .header:hover{
+.header:hover{
   margin-bottom: .25rem;
   text-decoration: none;
   color: #000;
