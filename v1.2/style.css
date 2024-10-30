@@ -50,6 +50,7 @@ input{
 }
 
 .card .header{
+  font-size: 4rem;
   margin-bottom: .25rem;
   text-decoration: none;
   color: #fff;
