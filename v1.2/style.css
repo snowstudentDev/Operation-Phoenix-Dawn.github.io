@@ -31,12 +31,12 @@ input{
 .user-cards{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: .25rem;
-  margin-top: 1rem;
+  gap: .5rem;
+  margin-top: 2rem;
 }
 .card{
   cursor: pointer;
-  padding: .5rem;
+  padding: 1rem;
   text-decoration: none;
   color: #fff;
   transition: all 0.3s;
@@ -44,12 +44,13 @@ input{
 }
 .card:hover {
   background-color: white;
-  padding: .5rem;
+  padding: 1rem;
   text-decoration: none;
   color: #000;
 }
 
 .card .header{
+  font-size: 2rem;
   margin-bottom: .25rem;
   text-decoration: none;
   transition: all 0.3s;
