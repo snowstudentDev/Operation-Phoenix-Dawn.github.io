@@ -198,5 +198,205 @@
       "title": "Circloo",
       "image": "/games/circloo/icon.png",
       "link": "/games/circloo"
+    },
+    {
+      "title": "Cluster Rush",
+      "image": "/games/cluster-rush/icon.jpg",
+      "link": "/games/cluster-rush"
+    },
+    {
+      "title": "Color Switch",
+      "image": "/games/colorswitch/colorswitch.png",
+      "link": "/games/colorswitch"
+    },
+    {
+      "title": "A dance of Fire and Ice",
+      "image": "/games/A-dance-of-fire-and-ice/icon.png",
+      "link": "/games/A-dance-of-fire-and-ice"
+    },
+    {
+      "title": "Crossyroad",
+      "image": "/games/crossyroad/crossyroad.png",
+      "link": "/games/crossyroad"
+    },
+    {
+      "title": "Dante",
+      "image": "/games/dante/icon.png",
+      "link": "/games/dante"
+    },
+    {
+      "title": "Defend the Tank",
+      "image": "/games/defend-the-tank/portrait-start.jpg",
+      "link": "/games/defend-the-tank"
+    },
+    {
+      "title": "Doctor Acorn 2",
+      "image": "/games/doctor-acorn2/icon-256.png",
+      "link": "/games/doctor-acorn2"
+    },
+    {
+      "title": "Doodlejump",
+      "image": "/games/doodlejump/icon.jpg",
+      "link": "/games/doodlejump"
+    },
+    {
+      "title": "Dreader",
+      "image": "/games/dreader/images/favicon.png",
+      "link": "/games/dreader"
+    },
+    {
+      "title": "Drive Mad",
+      "image": "/games/drive-mad/drive-mad.jpeg",
+      "link": "/games/drive-mad"
+    },
+    {
+      "title": "Duck Life 1",
+      "image": "/games/ducklife1/ducklife1.jpeg",
+      "link": "/games/ducklife1"
+    },
+    {
+      "title": "Duck Life 2",
+      "image": "/games/ducklife2/ducklife2.jpeg",
+      "link": "/games/ducklife2"
+    },
+    {
+      "title": "Duck Life 3",
+      "image": "/games/ducklife3/ducklife3.jpeg",
+      "link": "/games/ducklife3"
+    },
+    {
+      "title": "Duck Life 4",
+      "image": "/games/ducklife4/ducklife4.jpeg",
+      "link": "/games/ducklife4"
+    },
+    {
+      "title": "Duck Life 5",
+      "image": "/games/ducklife5/ducklife5.png",
+      "link": "/games/ducklife5"
+    },
+    {
+      "title": "Eaglercraft 1.5.2",
+      "image": "/games/eaglercraft_1.5.2/eaglercraft_1.5.2.jpeg",
+      "link": "/games/eaglercraft_1.5.2"
+    },
+    {
+      "title": "Edge Not Found",
+      "image": "/games/edgenotfound/edge.png",
+      "link": "/games/edgenotfound"
+    },
+    {
+      "title": "Evil Glitch",
+      "image": "/games/evil-glitch/icon.png",
+      "link": "/games/evil-glitch"
+    },
+    {
+      "title": "Evolution",
+      "image": "/games/evolution/icon.png",
+      "link": "/games/evolution"
+    },
+    {
+      "title": "Exo",
+      "image": "/games/exo/image.png",
+      "link": "/games/exo"
+    },
+    {
+      "title": "Fanf",
+      "image": "/games/fanf/splash.jpg",
+      "link": "/games/fanf"
+    },
+    {
+      "title": "Fanf 2",
+      "image": "/games/fanf-2/image.png",
+      "link": "/games/fanf-2"
+    },
+    {
+      "title": "Fanf 3",
+      "image": "/games/fanf-3/image.png",
+      "link": "/games/fanf-3"
+    },
+    {
+      "title": "Fantasy Dash",
+      "image": "/games/fantasy-dash/fantasy-dash.jpeg",
+      "link": "/games/fantasy-dash"
+    },
+    {
+      "title": "FeedVid",
+      "image": "/games/FeedVid/FeedVid.jpeg",
+      "link": "/games/FeedVid"
+    },
+    {
+      "title": "Fruitninja",
+      "image": "/games/fruitninja/FruitNinjaTeaser.jpg",
+      "link": "/games/fruitninja"
+    },
+    {
+      "title": "Getaway Shootout",
+      "image": "/games/bloonstd3/getaway-shootout.jpeg",
+      "link": "/games/bloonstd3"
+    },
+    {
+      "title": "Happywheels",
+      "image": "/games/happywheels/b.png",
+      "link": "/games/happywheels"
+    },
+    {
+      "title": "House of Hazards",
+      "image": "/games/House-of-Hazards/House-of-Hazards.jpeg",
+      "link": "/games/House-of-Hazards"
+    },
+    {
+      "title": "Idle Breakout",
+      "image": "/games/idlebreakout/image.png",
+      "link": "/games/idlebreakout"
+    },
+    {
+      "title": "Just Fall",
+      "image": "/games/just-fall/splash.jpg",
+      "link": "/games/just-fall"
+    },
+    {
+      "title": "Just One Boss",
+      "image": "/games/just-one-boss/pv1Gr5.png",
+      "link": "/games/just-one-boss"
+    },
+    {
+      "title": "Konnekt",
+      "image": "/games/konnekt/konnekt.jpeg",
+      "link": "/games/konnekt"
+    },
+    {
+      "title": "Last Horizon",
+      "image": "/games/lasthorizon/wogo-owo.jpg",
+      "link": "/games/lasthorizon"
+    },
+    {
+      "title": "Learn to Fly",
+      "image": "/games/learntofly/learntofly.png",
+      "link": "/games/learntofly"
+    },
+    {
+      "title": "Learn to Fly 2",
+      "image": "/games/learntofly2/learn-to-fly-2.jpg",
+      "link": "/games/learntofly2"
+    },
+    {
+      "title": "Learn to Fly Idle",
+      "image": "/games/learntoflyidle/icon.jpg",
+      "link": "/games/learntoflyidle"
+    },
+    {
+      "title": "Madalin Cars Multiplayer",
+      "image": "/games/madalin-cars-multiplayer/icon.png",
+      "link": "/games/madalin-cars-multiplayer"
+    },
+    {
+      "title": "Manbomber",
+      "image": "/games/Manbomber/cart.p8.png",
+      "link": "/games/Manbomber"
+    },
+    {
+      "title": "Mario Kart 64",
+      "image": "/games/Mario-Kart-64/Mario-Kart-64.jpeg",
+      "link": "/games/Mario-Kart-64"
     }
 ]
