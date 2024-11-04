@@ -20,15 +20,22 @@ body {
 }
 
 .search-wrapper{
-    display: flex;
-    flex-direction: column;
-    gap: .25rem;
-    border-radius: 25% 25% 25% 25% / 50% 50% 50% 50%;
+  margin-left: 15%;
+  padding: 15px;
+  border-radius: 10px;
 }
-input{
-    font-size: 1rem;
-    padding: .5rem;
+
+input[type=text] {
+  width: 30%;
+  -webkit-transition: width 0.15s ease-in-out;
+  transition: width 0.15s ease-in-out;
 }
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+  width: 70%;
+}
+
 .user-cards{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
