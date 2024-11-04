@@ -23,6 +23,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: .25rem;
+    border-radius: 25% 25% 25% 25% / 50% 50% 50% 50%;
 }
 input{
     font-size: 1rem;
