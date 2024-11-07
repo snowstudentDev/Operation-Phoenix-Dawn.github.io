@@ -210,11 +210,6 @@
       "link": "/games/colorswitch"
     },
     {
-      "title": "A dance of Fire and Ice",
-      "image": "/games/A-dance-of-fire-and-ice/icon.png",
-      "link": "/games/A-dance-of-fire-and-ice"
-    },
-    {
       "title": "Crossyroad",
       "image": "/games/crossyroad/crossyroad.png",
       "link": "/games/crossyroad"
@@ -323,6 +318,11 @@
       "title": "FeedVid",
       "image": "/games/FeedVid/FeedVid.jpeg",
       "link": "/games/FeedVid"
+    },
+    {
+      "title": "Friday Night Funkin",
+      "image": "/games/fridaynightfunkin/favicon.png",
+      "link": "/games/fridaynightfunkin"
     },
     {
       "title": "Fruitninja",
@@ -548,6 +548,11 @@
       "title": "Vex 6",
       "image": "/games/vex-6/vex-6.jpeg",
       "link": "/games/vex-6"
+    },
+    {
+      "title": "Vex 7",
+      "image": "/games/vex7/gamedistribution/0c454c9562d249d28ba3a2b50564042c-512x512.jpg",
+      "link": "/games/vex7"
     },
     {
       "title": "Wall Smash",
