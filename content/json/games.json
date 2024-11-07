@@ -320,6 +320,11 @@
       "link": "/games/FeedVid"
     },
     {
+      "title": "Friday Night Funkin",
+      "image": "/games/fridaynightfunkin/favicon.png",
+      "link": "/games/fridaynightfunkin"
+    },
+    {
       "title": "Fruitninja",
       "image": "/games/fruitninja/FruitNinjaTeaser.jpg",
       "link": "/games/fruitninja"
