@@ -41,6 +41,27 @@
     <div id="menu-background-pattern"></div>
   </div>
   <h1>Home</h1>
+  <div class="button-wrapper">
+    <button id="create" class="console-button">Open in about:blank</button>
+  </div>
+  </div>
+  <script>
+    var urlObj = new window.URL(window.location.href);
+    document.getElementById("create").onclick = function () {
+      win = window.open();
+      win.document.body.style.margin = "0";
+      win.document.body.style.height = "100vh";
+      var iframe = win.document.createElement("iframe");
+      iframe.style.border = "none";
+      iframe.style.width = "100%";
+      iframe.style.height = "100%";
+      iframe.style.margin = "0";
+      iframe.referrerpolicy = "no-referrer";
+      iframe.allow = "fullscreen";
+      iframe.src = "https://operation-phoenix-dawn.github.io/games";
+      win.document.body.appendChild(iframe);
+    };
+  </script>
   <div class="siteInfo">
     <div class="siteInfo-content">
       <h3 class="card-title">The BEST unblocked games site</h3>
