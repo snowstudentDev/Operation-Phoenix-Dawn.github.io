@@ -455,6 +455,11 @@
       "link": "/games/Stack"
     },
     {
+      "title": "Star Fox",
+      "image": "/games/StarFox/null",
+      "link": "/games/StarFox"
+    },
+    {
       "title": "Stickman Hook",
       "image": "/games/stickman-hook/icon.jpg",
       "link": "/games/stickman-hook"
@@ -473,6 +478,16 @@
       "title": "Super Mario 64",
       "image": "/games/supermario64/icon.png",
       "link": "/games/supermario64"
+    },
+    {
+      "title": "Super Smash Bros",
+      "image": "/games/supersmashbros/logo.jpg",
+      "link": "/games/supersmashbros"
+    },
+    {
+      "title": "Super Smash Flash",
+      "image": "/games/supersmashflash/ssf.jpg",
+      "link": "/games/supersmashflash"
     },
     {
       "title": "Teenage Mutant Ninja Turtles in: Shredder's Prevenge APRIL UPDATE",
